@@ -1,0 +1,13 @@
+# Dependencies Required by this project
+# You can use pip to install these dependencies using 'pip install -r requirements.txt'
+
+colorama~=0.4.6
+greenlet~=3.0.3
+iniconfig~=2.0.0
+packaging~=24.0
+playwright~=1.43.0
+pluggy~=1.5.0
+pyee~=11.1.0
+pytest~=8.1.2
+pytest-asyncio~=0.23.6
+typing_extensions~=4.11.0
